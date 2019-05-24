@@ -106,6 +106,6 @@
     } else {
       player.src(document.querySelector('input[type="url"]').value);
     }
-
+    
   });
 })();
